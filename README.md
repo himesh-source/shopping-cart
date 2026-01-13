@@ -94,4 +94,4 @@ Review my code and suggest improvements with regards to thread safety and immuta
 From the bash command line in the project root directory you can run the following commands. 
 ./gradlew compileJava
 ./gradlew build
-./gradlew test# shopping-cart
+./gradlew test

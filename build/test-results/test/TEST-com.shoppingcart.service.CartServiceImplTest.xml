@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shoppingcart.service.CartServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-13T13:13:54.855Z" hostname="DESKTOP-OU0TTT1" time="4.011">
+  <properties/>
+  <testcase name="receipt_shouldShowDiscountLine()" classname="com.shoppingcart.service.CartServiceImplTest" time="4.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
