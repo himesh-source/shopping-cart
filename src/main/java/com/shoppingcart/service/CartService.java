@@ -1,6 +1,6 @@
 package com.shoppingcart.service;
 
-import com.shoppingcart.domain.Receipt;
+import com.shoppingcart.receipt.Receipt;
 import com.shoppingcart.dto.CartSummaryDto;
 import com.shoppingcart.dto.ProductRequestDto;
 

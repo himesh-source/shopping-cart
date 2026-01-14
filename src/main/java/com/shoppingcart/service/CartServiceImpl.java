@@ -6,6 +6,9 @@ import com.shoppingcart.dto.CartSummaryDto;
 import com.shoppingcart.dto.DiscountDto;
 import com.shoppingcart.dto.ProductRequestDto;
 import com.shoppingcart.promotion.PromotionRulesEngineImpl;
+import com.shoppingcart.receipt.Receipt;
+import com.shoppingcart.receipt.ReceiptLine;
+
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
